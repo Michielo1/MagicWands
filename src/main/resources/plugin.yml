@@ -1,0 +1,8 @@
+main: com.michielo.Main
+name: MagicWands
+version: '1.0'
+author: Michielo
+website: michielo.com
+
+commands:
+  magicwands:
