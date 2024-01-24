@@ -2,7 +2,7 @@ package com.michielo;
 
 import com.michielo.enums.Wands;
 import com.michielo.wands.Wand;
-import com.michielo.wands.WitchWand;
+import com.michielo.wands.impl.WitchWand;
 import org.bukkit.entity.Player;
 
 import java.util.ArrayList;

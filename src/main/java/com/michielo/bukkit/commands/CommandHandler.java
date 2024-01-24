@@ -1,6 +1,6 @@
 package com.michielo.bukkit.commands;
 
-import com.michielo.wands.WitchWand;
+import com.michielo.wands.impl.WitchWand;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

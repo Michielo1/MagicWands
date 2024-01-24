@@ -1,10 +1,11 @@
-package com.michielo.wands;
+package com.michielo.wands.impl;
 
 import com.michielo.enums.Wands;
 import com.michielo.spells.impl.PoisonSpark;
 import com.michielo.spells.Spell;
 import com.michielo.spells.impl.PoisonWave;
 import com.michielo.util.CircularListNavigator;
+import com.michielo.wands.Wand;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
